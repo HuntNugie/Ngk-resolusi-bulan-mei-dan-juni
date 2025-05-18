@@ -1,0 +1,5 @@
+Bahasa pemograman yang ingin di pelajari
+Javascript
+php
+Go
+java
