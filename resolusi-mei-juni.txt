@@ -1,0 +1,3 @@
+Resolusi Nugie kurniawan bulan mei dan juni 2025
+-berharap mulai memahami middleware di laravel
+-berharap mulai mempelajari javascript dari 0 setidaknya sampai bulan juni sudah memasuki ke ES6
